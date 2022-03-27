@@ -5,7 +5,6 @@
 
 % Topics
 % 1 - Residue - Partial Fraction Expansion
-% 2 - 
 
 %% Code
 
